@@ -381,15 +381,15 @@ about__data{
   width: 85%;
 }
 
-.skills__postgres{
-  width: 70%;
-}
-
-.skills__mongo{
+.skills__mysql{
   width: 75%;
 }
 
-.skills__mysql{
+.skills__mongo{
+  width: 70%;
+}
+
+.skills__postgres{
   width: 70%;
 }
 
@@ -563,6 +563,7 @@ about__data{
 .works__title{
   font-size: var(--h2-font-size);
   color: var(--first-color-lighten);
+  text-align: center;
 }
   
 
